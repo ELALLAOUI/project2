@@ -4,4 +4,4 @@ $database = array(
     "host"     => "locahost",
     "username" => "root",
     "password" => "",
-    "database" => "test2");
+    "database" => "test1");
